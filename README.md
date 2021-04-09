@@ -1,5 +1,5 @@
 # Authentication System
-<blockquote class="imgur-embed-pub" lang="en" data-id="gOAjzAV"><a href="https://imgur.com/gOAjzAV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/gOAjzAV">
 
 ## What is this? When was it created?
 This artifact is the final project from IT-145 which is an authentication system that is a simple project that has a local credentials text file containing account data both with hashed passwords and raw strings. This artifact was created in August 2019 by me.
